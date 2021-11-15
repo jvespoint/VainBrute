@@ -1,0 +1,5 @@
+usage: vainbrute string_to_match [options]
+  options:
+    -a, --addresses addressesFilename.json      Specify file to load/store addresses for persistance
+    -c, --contains                              Look for addresses containing the string instead of at beginning
+    --help                                      Show this message

@@ -1,0 +1,13 @@
+{
+  "name": "vain-brute",
+  "version": "0.0.0",
+  "description": "VainBrute",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "ethers": "^5.4.7",
+    "log-update": "^4.0.0"
+  }
+}
